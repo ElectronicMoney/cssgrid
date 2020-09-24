@@ -1,9 +1,7 @@
 /*
-
 Developer: Emeka Augustine (Cafafans Coders)
 Email: cafafanscoders@gmail.com
 Website: www.cafafanscoders.com
-
 */
 
 /* CONTAINER */
@@ -57,7 +55,7 @@ Website: www.cafafanscoders.com
 
 /*  REMOVE MARGINS AS ALL GO FULL WIDTH AT 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	[class|="col"] { 
 		/*margin: 1% 0 1% 0%;*/
         margin: 0;
@@ -78,12 +76,14 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-2-of-2 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-1-of-2 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 }
 
@@ -106,15 +106,18 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-3-of-3 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-2-of-3 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-1-of-3 {
-		width: 100%;
+        width: 100%;
+        margin-bottom: 2rem; 
 	}
 }
 
@@ -138,22 +141,27 @@ Website: www.cafafanscoders.com
 }
 
 
-/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+/*  GO FULL WIDTH AT LESS THAN 768 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-4-of-4 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-3-of-4 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-2-of-4 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-1-of-4 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 }
+
 
 
 /*  GRID OF FIVE  */
@@ -182,21 +190,26 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-5-of-5 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-4-of-5 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-3-of-5 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-2-of-5 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-1-of-5 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 }
 
@@ -231,24 +244,30 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-6-of-6 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-5-of-6 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-4-of-6 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-3-of-6 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-2-of-6 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-1-of-6 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 }
 
@@ -288,27 +307,34 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-7-of-7 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-6-of-7 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-5-of-7 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-4-of-7 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-3-of-7 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-2-of-7 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-1-of-7 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 }
 
@@ -351,30 +377,38 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-8-of-8 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem;  
 	}
 	.col-7-of-8 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem;  
 	}
 	.col-6-of-8 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem;  
 	}
 	.col-5-of-8 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem;  
 	}
 	.col-4-of-8 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem;  
 	}
 	.col-3-of-8 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem;  
 	}
 	.col-2-of-8 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem;  
 	}
 	.col-1-of-8 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem;  
 	}
 }
 
@@ -421,33 +455,42 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-9-of-9 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-8-of-9 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-7-of-9 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-6-of-9 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-5-of-9 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-4-of-9 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-3-of-9 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-2-of-9 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-1-of-9 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 }
 
@@ -498,36 +541,46 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-10-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-9-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-8-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-7-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-6-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-5-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-4-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-3-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-2-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 	.col-1-of-10 {
-		width: 100%; 
+        width: 100%; 
+        margin-bottom: 2rem; 
 	}
 }
 
@@ -581,39 +634,50 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-11-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-10-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-9-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-8-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-7-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-6-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-5-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-4-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-3-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-2-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-1-of-11 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 }
 
@@ -671,41 +735,53 @@ Website: www.cafafanscoders.com
 
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 768px) {
 	.col-12-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-11-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-10-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-9-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-8-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-7-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-6-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-5-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-4-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-3-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-2-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 	.col-1-of-12 {
-		width: 100%; 
+        width: 100%;
+        margin-bottom: 2rem;  
 	}
 }
