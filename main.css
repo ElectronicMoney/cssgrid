@@ -1,0 +1,15 @@
+.box {
+    text-align: center;
+    background-color: rgb(12, 12, 88);
+    color: #eee;
+    padding: 10px;
+}
+
+.heading {
+    color: rgb(171, 196, 31);
+    text-transform: uppercase;
+}
+
+.content {
+    color: #fff;
+}
